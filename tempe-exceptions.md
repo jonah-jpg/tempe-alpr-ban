@@ -1,0 +1,30 @@
+Section 26-78. Exceptions to Prohibition.
+
+This Article does not prohibit:
+
+A.
+ The use, in a specific criminal case, of ALPR data lawfully obtained by the City before the effective date of this chapter and preserved as evidence in that case before that date.
+
+B.
+ The receipt or use of ALPR data produced to the City pursuant to a search warrant, court order, or subpoena issued in a specific case, or produced by a defendant, provided that no City agency requested or arranged the underlying collection or query.
+
+C.
+ The receipt or use of ALPR data produced to the City by another government agency as part of an independent investigation in which City agency was not involved.
+
+D.
+ The receipt of a specific, unsolicited report from a member of the public or another agency identifying a particular vehicle in connection with a specific offense.
+
+E.
+ Conduct that the City or its officers are required to undertake by federal or state law, court order, or other legally binding process.
+
+F.
+ The use by a City Agency of an ALPR System or ALPR Data for business purposes unrelated to law enforcement such as parking lot or garage enforcement and management; provided that such use of an ALPR System or ALPR Data does not cause any person's location, movements, personally identifying information, or other information in which a member of the public might have a reasonable expectation of privacy to be made available to or accessible by any private third party for collection and inclusion in any dataset which may be provided to any public or private third party as a searchable database by the collecting third party
+
+G.
+ The receipt or use of ALPR Data by a law enforcement officer participating in a multi-jurisdictional task force or multi-jurisdictional investigation when such ALPR Data was lawfully obtained by another law enforcement agency.
+
+H.
+ A Query by a City Agency for ALPR Data lawfully obtained by another jurisdiction or a private property owner or authorized user when such Query is related to investigation of a missing or endangered person and it is determined by the Police Command Staff or designee that such Query is reasonably necessary to further the investigation.
+
+I.
+ Any use of an ALPR System to the extent expressly authorized by a search warrant or other judicial order from a court of competent jurisdiction.
